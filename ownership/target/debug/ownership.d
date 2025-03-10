@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/ownership/target/debug/ownership: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/ownership/src/main.rs

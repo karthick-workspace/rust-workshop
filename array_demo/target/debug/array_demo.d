@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/array_demo/target/debug/array_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/array_demo/src/main.rs

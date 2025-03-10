@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/target/debug/coherence_trait_impl: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/src/bin/coherence_trait_impl.rs

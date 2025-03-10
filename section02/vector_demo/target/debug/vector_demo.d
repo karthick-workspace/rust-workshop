@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/section02/vector_demo/target/debug/vector_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/section02/vector_demo/src/main.rs

@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/target/debug/lifetime_annotation: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/src/bin/lifetime_annotation.rs

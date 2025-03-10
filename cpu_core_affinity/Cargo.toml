@@ -1,0 +1,10 @@
+[package]
+name = "cpu_core_affinity"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core_affinity = "0.8.1"
+
+[build]
+rustc-args = ["-Vv"]

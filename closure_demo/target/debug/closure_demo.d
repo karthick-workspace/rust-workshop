@@ -1,0 +1,1 @@
+/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/closure_demo/target/debug/closure_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/closure_demo/src/main.rs
