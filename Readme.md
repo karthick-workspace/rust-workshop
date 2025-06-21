@@ -90,3 +90,13 @@ time, the refer- ence points to invalid memory.</p>
 | cargo doc                 | Generates documentation for the current project‘s dependencies.                       |
 | cargo publish             | Packages and uploads the current project to crates.io.                                |
 | cargo bench               | Runs the benchmarks of the current project. (Note: Requires a nightly build of Rust.) |
+
+## Compile Rust program
+To compile Rust source files Main.rs and Lib.rs into object files and then link them into a final executable, you need to use the rustc command-line tool.
+```shell
+rustc --emit=obj -o Main.o Main.rs
+
+rustc --emit=obj -o Lib.o Lib.rs
+
+rustc Main.o Lib.o -o MyProgram
+```
