@@ -34,6 +34,6 @@ fn main() {
 
         println!("The character at index 3 is {}", x)
     } else {
-        println!("Operation cancelled!")
+        println!("Operation cancelled!..")
     }
 }
