@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/section02/variables/target/debug/variables: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/section02/variables/src/main.rs

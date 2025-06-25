@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/target/debug/trait_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/src/main.rs

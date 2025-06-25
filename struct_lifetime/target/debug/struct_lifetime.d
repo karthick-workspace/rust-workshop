@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/target/debug/struct_lifetime: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/src/main.rs

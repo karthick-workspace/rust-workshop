@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/target/debug/copy_struct: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/struct_lifetime/src/bin/copy_struct.rs

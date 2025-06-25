@@ -14,6 +14,7 @@ fn accept() -> bool {
 }
 
 fn main() {
+    // Basic code
     if accept() {
         println!("Hello, world!");
 

@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/target/debug/default_type: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/src/bin/default_type.rs

@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/target/debug/default_func: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/src/bin/default_func.rs

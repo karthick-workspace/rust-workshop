@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/target/debug/explicit_call: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/src/bin/explicit_call.rs

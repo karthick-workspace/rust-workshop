@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/target/debug/type_bound: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/src/bin/type_bound.rs

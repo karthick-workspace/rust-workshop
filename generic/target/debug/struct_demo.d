@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/target/debug/struct_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/generic/src/bin/struct_demo.rs

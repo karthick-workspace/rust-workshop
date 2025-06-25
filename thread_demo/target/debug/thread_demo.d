@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/thread_demo/target/debug/thread_demo: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/thread_demo/src/main.rs

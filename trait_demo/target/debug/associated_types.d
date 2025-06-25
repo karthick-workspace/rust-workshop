@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/target/debug/associated_types: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/trait_demo/src/bin/associated_types.rs

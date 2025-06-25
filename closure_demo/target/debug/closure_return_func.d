@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/closure_demo/target/debug/closure_return_func: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/closure_demo/src/bin/closure_return_func.rs

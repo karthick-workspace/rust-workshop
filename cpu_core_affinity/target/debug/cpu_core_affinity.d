@@ -1,1 +1,0 @@
-/Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/cpu_core_affinity/target/debug/cpu_core_affinity: /Users/karthicksivapragasam/MyProjects/Projects/RustProjects/rust-workshop/cpu_core_affinity/src/main.rs
